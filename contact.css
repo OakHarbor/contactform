@@ -638,7 +638,7 @@ body, html, h1, h2, h3, h4, h5, h6 {
 
 .form-dark {
     background: #000;
-    opacity: .7;
+    opacity: 1;
     position: absolute;
     height: 100%;
     width: 100%;
